@@ -1,5 +1,5 @@
 
-🎨 training_progress.gif: See the face generation improve across epochs.
+🎨 training_progress.gif: See the face generation improve across epochs, total epochs are 200 and code is of "IGAN_1000" file.
 
 OUTPUT GIF:
 
