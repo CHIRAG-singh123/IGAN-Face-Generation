@@ -54,7 +54,8 @@ This project demonstrates how GANs can be trained to generate realistic human fa
 | ImageIO            | Creating GIFs from images       |
 | NumPy              | Matrix operations and utilities |
 
+https://github.com/CHIRAG-singh123/IGAN-Face-Generation
 
-![github link](https://github.com/CHIRAG-singh123/IGAN-Face-Generation)
+https://www.linkedin.com/in/thechiragsingh/
 
-![linkedin link](https://www.linkedin.com/in/thechiragsingh/)
+
