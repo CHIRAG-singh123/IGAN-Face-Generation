@@ -3,7 +3,8 @@
 
 OUTPUT GIF:
 
-![training_progress](https://github.com/user-attachments/assets/9fc12459-f6fa-4300-ac41-2a6b6111f22d)
+![Training_2](https://github.com/user-attachments/assets/38032a12-08da-44e8-90d0-c0d89d14b21e)
+
 
 🖼️ Result_Data.PNG: Static output snapshot after training.
 
