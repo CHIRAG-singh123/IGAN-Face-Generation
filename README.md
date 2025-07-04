@@ -35,7 +35,7 @@ Make sure you have Python installed, then run:
 pip install tensorflow keras numpy matplotlib opencv-python tqdm imageio
 ```
 
-![Dataset link](https://www.kaggle.com/datasets/prasoonkottarathil/face-mask-lite-dataset/data)
+[Dataset link](https://www.kaggle.com/datasets/prasoonkottarathil/face-mask-lite-dataset/data)
 # IGAN-Face-Generation
 
 High-resolution face generation using **Image Generative Adversarial Networks (IGAN)** built with **TensorFlow** and **Keras**.
